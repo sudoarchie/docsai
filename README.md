@@ -16,5 +16,5 @@ A Chrome extension that empowers users to interactively ask questions and receiv
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/docuquery-chrome-extension.git
+   git clone https://github.com/sudoarchie/docuquery.git
    cd docuquery-chrome-extension
